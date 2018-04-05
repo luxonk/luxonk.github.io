@@ -1,0 +1,21 @@
+*{margin:0;padding:0;list-style:none}
+body{background-color:#0b5c7d}
+header{height:150px;line-height:150px}
+h1{text-align:center;color:#fff}
+h2{text-align:center;padding:15px 0 10px;border-bottom:2px dashed #0b5c7d}
+footer{padding:50px 0}
+footer p{text-align:center;color:#fff}
+footer a{color:#fff;text-decoration:none}
+footer a:hover, footer a:active{color:#aaa}
+section{margin:auto;width:80%}
+section > div{padding:0 30px 30px 30px;background-color:rgba(255,255,255,0.7);border-radius:20px;margin-top:30px}
+.section01{margin-top:0}
+table{width:100%;padding-top:20px}
+table th{text-align:right}
+th, td{padding:7px 0}
+td{padding-left:20px}
+ul li{text-align:center;padding:5px 0}
+.list1, .section03 ul, .section04 ul{padding-top:20px}
+.list1 p{font-weight:700}
+.list2 li{font-size:13px}
+.material-icons{font-size:40px;padding-right:10px;vertical-align:middle}
